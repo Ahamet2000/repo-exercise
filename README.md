@@ -1,1 +1,5 @@
-# repo-exercise
+Ahamet
+
+Niamey
+
+Frontend developer
